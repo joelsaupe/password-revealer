@@ -4,7 +4,7 @@
   "description": "Reveals the value of all password fields on the current page. Great for trying to remember what your password is.",
   "version": "1.0",
   "browser_action": {
-      "default_icon": "unlock-icon.png"   // src: http://sau.pe/9hDT/
+      "default_icon": "unlock-icon.png"
   },
   "background": {
     "scripts": ["background.js"],
